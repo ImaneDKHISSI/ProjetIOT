@@ -1,0 +1,10 @@
+je suis le grp C2 je suis x et mon binome y
+
+data 3 
+vcc 6 
+gnd 7
+
+On clique sur VCS---> share project in github
+
+pip freeze> req.txt pour recuperer tous ce que j'ai installé
+pip install -r req.txt
